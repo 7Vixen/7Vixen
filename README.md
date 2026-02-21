@@ -101,7 +101,7 @@ const yousra = {
 
 ### **Languages**
 <p>
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,cpp,java,r&amp;theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,cpp,cs,c&amp;theme=dark" />
 </p>
 
 ### **AI / ML / Vision**
@@ -109,25 +109,20 @@ const yousra = {
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&amp;theme=dark" />
 </p>
 <p>
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&amp;logo=huggingface&amp;logoColor=black"/>
-<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&amp;logo=chainlink&amp;logoColor=6EE7B7"/>
+<img src="https://img.shields.io/badge/MindSpore-ED1C24?style=for-the-badge&amp;logo=huawei&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/PaddlePaddle-0062B0?style=for-the-badge&amp;logoColor=white"/>
 <img src="https://img.shields.io/badge/Stable_Diffusion-7c3aed?style=for-the-badge&amp;logoColor=white"/>
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&amp;logo=scikit-learn&amp;logoColor=white"/>
 </p>
 
-### **Frontend &amp; UI**
+### **3D &amp; Visual Computing**
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs,html,css&amp;theme=dark" />
+<img src="https://skillicons.dev/icons?i=blender,opencv&amp;theme=dark" />
 </p>
 
-### **Backend &amp; Databases**
+### **Tools &amp; Editors**
 <p>
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,postgres,mongodb,redis&amp;theme=dark" />
-</p>
-
-### **DevOps &amp; Tools**
-<p>
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,figma&amp;theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&amp;theme=dark" />
 </p>
 
 </div>
@@ -137,7 +132,6 @@ const yousra = {
 ---
 
 <br/>
-
 <!-- Projects Showcase -->
 <div align="center">
 
