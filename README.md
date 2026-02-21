@@ -1,25 +1,25 @@
 <div align="center">
 
 <!-- Animated Header Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:6d28d9,50:a855f7,100:e879f9&amp;height=220&amp;section=header&amp;text=7Vixen&amp;fontSize=90&amp;fontAlignY=38&amp;animation=twinkling&amp;fontColor=ffffff&amp;desc=Visual%20Computing%20%7C%20AI%20%26%20ML%20Engineer&amp;descAlignY=58&amp;descSize=22"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,50:a855f7,100:e879f9&height=220&section=header&text=7Vixen&fontSize=90&fontAlignY=38&animation=twinkling&fontColor=ffffff&desc=Visual%20Computing%20%7C%20AI%20%26%20ML%20Engineer&descAlignY=58&descSize=22"/>
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;duration=3000&amp;pause=1000&amp;color=C084FC&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Visual+Computing+%26+Computer+Graphics;AI+%7C+Machine+Learning+%7C+Deep+Learning;Prompt+Engineering+%26+LLM+Systems;Fullstack+Dev+%7C+Building+things+that+matter;M1+Student+%7C+Passionate+Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=650&lines=Visual+Computing+%26+Computer+Graphics;AI+%7C+Machine+Learning+%7C+Deep+Learning;Prompt+Engineering+%26+LLM+Systems;Fullstack+Dev+%7C+Building+things+that+matter;M1+Student+%7C+Passionate+Problem+Solver" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <!-- Badges -->
-<img src="https://img.shields.io/badge/Visual_Computing-Expert-a855f7?style=for-the-badge&amp;logoColor=white" />
-<img src="https://img.shields.io/badge/AI_%26_ML-Enthusiast-7c3aed?style=for-the-badge&amp;logoColor=white" />
-<img src="https://img.shields.io/badge/Prompt_Engineering-Specialist-6d28d9?style=for-the-badge&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/Visual_Computing-Expert-a855f7?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/AI_%26_ML-Enthusiast-7c3aed?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Prompt_Engineering-Specialist-6d28d9?style=for-the-badge&logoColor=white" />
 
 <br/><br/>
 
 <!-- Profile Visitors -->
-<img src="https://komarev.com/ghpvc/?username=7Vixen&amp;color=a855f7&amp;style=for-the-badge&amp;label=PROFILE+VISITORS" />
-<img src="https://img.shields.io/github/followers/7Vixen?style=for-the-badge&amp;color=7c3aed&amp;label=FOLLOWERS&amp;logo=github" />
+<img src="https://komarev.com/ghpvc/?username=7Vixen&color=a855f7&style=for-the-badge&label=PROFILE+VISITORS" />
+<img src="https://img.shields.io/github/followers/7Vixen?style=for-the-badge&color=7c3aed&label=FOLLOWERS&logo=github" />
 
 </div>
 
@@ -31,7 +31,7 @@
 
 <!-- About Section -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=28&amp;duration=2800&amp;pause=2000&amp;color=e879f9&amp;center=true&amp;vCenter=true&amp;width=480&amp;lines=%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+Yousra+%227Vixen%22" alt="Name" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=2000&color=e879f9&center=true&vCenter=true&width=480&lines=%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+Yousra+%227Vixen%22" alt="Name" />
 </div>
 
 <br/>
@@ -80,13 +80,13 @@ const yousra = {
 ## 📊 **GitHub Analytics**
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=7Vixen&amp;show_icons=true&amp;theme=radical&amp;include_all_commits=true&amp;count_private=true&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=C084FC&amp;text_color=C9D1D9&amp;icon_color=6EE7B7" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7Vixen&amp;layout=compact&amp;langs_count=8&amp;theme=radical&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=C084FC&amp;text_color=C9D1D9" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=7Vixen&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=C084FC&text_color=C9D1D9&icon_color=6EE7B7" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7Vixen&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=C084FC&text_color=C9D1D9" />
 </p>
 
-<img src="https://streak-stats.demolab.com/?user=7Vixen&amp;theme=radical&amp;hide_border=true&amp;background=0D1117&amp;stroke=C084FC&amp;ring=a855f7&amp;fire=6EE7B7&amp;currStreakLabel=C084FC" />
+<img src="https://streak-stats.demolab.com/?user=7Vixen&theme=radical&hide_border=true&background=0D1117&stroke=C084FC&ring=a855f7&fire=6EE7B7&currStreakLabel=C084FC" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=7Vixen&amp;theme=radical&amp;no-frame=true&amp;no-bg=true&amp;margin-w=4&amp;column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=7Vixen&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" />
 
 </div>
 
@@ -103,33 +103,33 @@ const yousra = {
 
 ### **Languages**
 <p>
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,cpp,java,r&amp;theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,cpp,java,r&theme=dark" />
 </p>
 
 ### **AI / ML / Vision**
 <p>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&amp;theme=dark" />
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark" />
 </p>
 <p>
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&amp;logo=huggingface&amp;logoColor=black"/>
-<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&amp;logo=chainlink&amp;logoColor=6EE7B7"/>
-<img src="https://img.shields.io/badge/Stable_Diffusion-7c3aed?style=for-the-badge&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&amp;logo=scikit-learn&amp;logoColor=white"/>
-</p>
-
-### **Frontend &amp; UI**
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs,html,css&amp;theme=dark" />
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=6EE7B7"/>
+<img src="https://img.shields.io/badge/Stable_Diffusion-7c3aed?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 </p>
 
-### **Backend &amp; Databases**
+### **Frontend & UI**
 <p>
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,postgres,mongodb,redis&amp;theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs,html,css&theme=dark" />
 </p>
 
-### **DevOps &amp; Tools**
+### **Backend & Databases**
 <p>
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,figma&amp;theme=dark" />
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,postgres,mongodb,redis&theme=dark" />
+</p>
+
+### **DevOps & Tools**
+<p>
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,figma&theme=dark" />
 </p>
 
 </div>
@@ -163,10 +163,10 @@ Status:       Active Development
 
 **Stack:**
 <p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&amp;logo=chainlink&amp;logoColor=6EE7B7"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&amp;logo=fastapi&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/ChromaDB-a855f7?style=for-the-badge&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=6EE7B7"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/ChromaDB-a855f7?style=for-the-badge&logoColor=white"/>
 </p>
 
 **Highlights:**
@@ -192,10 +192,10 @@ Feature:   A/B prompt comparison & scoring
 
 **Stack:**
 <p>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&amp;logo=fastapi&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&amp;logo=openai&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
 </details>
@@ -215,9 +215,9 @@ Output:    High-res stylized images
 
 **Stack:**
 <p>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&amp;logo=pytorch&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&amp;logo=opencv&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&amp;logo=streamlit&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 </p>
 
 </details>
@@ -235,7 +235,7 @@ Output:    High-res stylized images
 
 </div>
 
-### 🎨 Visual Computing &amp; Graphics
+### 🎨 Visual Computing & Graphics
 ```diff
 + Computer Vision & Image Processing ████████████████████░ 92%
 + 3D Rendering & Scene Understanding ████████████████████░ 87%
@@ -251,7 +251,7 @@ Output:    High-res stylized images
 + Model Fine-Tuning & Evaluation        ████████████████████░ 83%
 ```
 
-### ⚡ Engineering &amp; Development
+### ⚡ Engineering & Development
 ```diff
 + API Design & Backend Systems       ████████████████████░ 85%
 + Frontend & Data Visualization      ████████████████████░ 82%
@@ -270,7 +270,7 @@ Output:    High-res stylized images
 
 ## ⏱️ **Coding Activity**
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=7Vixen&amp;theme=react-dark&amp;hide_border=true&amp;area=true&amp;bg_color=0D1117&amp;color=C084FC&amp;line=a855f7&amp;point=6EE7B7" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=7Vixen&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=C084FC&line=a855f7&point=6EE7B7" />
 
 </div>
 
@@ -316,13 +316,13 @@ On Code:
 ## 🤝 **Let's Connect**
 
 <a href="https://github.com/7Vixen">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://linkedin.com/in/7Vixen">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:yousra@email.com">
-  <img src="https://img.shields.io/badge/Email-a855f7?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-a855f7?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <br/><br/>
@@ -337,7 +337,7 @@ On Code:
 <br/>
 
 <!-- Footer Typing -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=15&amp;duration=4000&amp;pause=1000&amp;color=6EE7B7&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Turning+pixels+into+intelligence%2C+one+model+at+a+time+%F0%9F%9A%80;Visual+Computing+%C3%97+AI+%3D+The+future+I%27m+building;Code+with+intention%2C+design+with+precision" alt="Footer Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=4000&pause=1000&color=6EE7B7&center=true&vCenter=true&width=650&lines=Turning+pixels+into+intelligence%2C+one+model+at+a+time+%F0%9F%9A%80;Visual+Computing+%C3%97+AI+%3D+The+future+I%27m+building;Code+with+intention%2C+design+with+precision" alt="Footer Animation" />
 
 <br/><br/>
 
@@ -346,6 +346,6 @@ On Code:
 <br/>
 
 <!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:6d28d9,50:a855f7,100:e879f9&amp;height=130&amp;section=footer&amp;animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,50:a855f7,100:e879f9&height=130&section=footer&animation=twinkling"/>
 
 </div>
