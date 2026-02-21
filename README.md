@@ -1,8 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Wave -->
-<!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=HIKI%20ZRX&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Backend%20Architect%20%7C%20Distributed%20Systems%20Engineer&descAlignY=55&descSize=20"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=200&amp;section=header&amp;text=7Vixen&amp;fontSize=80&amp;fontAlignY=35&amp;animation=twinkling&amp;fontColor=fff&amp;desc=Visual+Computing+%7C+AI+%26+ML+Engineer&amp;descAlignY=55&amp;descSize=20"/>
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
@@ -350,3 +349,4 @@ On Code:
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:6d28d9,50:a855f7,100:e879f9&amp;height=130&amp;section=footer&amp;animation=twinkling"/>
 
 </div>
+
