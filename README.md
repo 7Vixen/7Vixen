@@ -117,17 +117,17 @@ const yousra = {
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&amp;logo=scikit-learn&amp;logoColor=white"/>
 </p>
 
-### **Frontend & UI**
+### **Frontend &amp; UI**
 <p>
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs,html,css&amp;theme=dark" />
 </p>
 
-### **Backend & Databases**
+### **Backend &amp; Databases**
 <p>
 <img src="https://skillicons.dev/icons?i=fastapi,nodejs,postgres,mongodb,redis&amp;theme=dark" />
 </p>
 
-### **DevOps & Tools**
+### **DevOps &amp; Tools**
 <p>
 <img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,figma&amp;theme=dark" />
 </p>
@@ -235,7 +235,7 @@ Output:    High-res stylized images
 
 </div>
 
-### 🎨 Visual Computing & Graphics
+### 🎨 Visual Computing &amp; Graphics
 ```diff
 + Computer Vision & Image Processing ████████████████████░ 92%
 + 3D Rendering & Scene Understanding ████████████████████░ 87%
@@ -251,7 +251,7 @@ Output:    High-res stylized images
 + Model Fine-Tuning & Evaluation        ████████████████████░ 83%
 ```
 
-### ⚡ Engineering & Development
+### ⚡ Engineering &amp; Development
 ```diff
 + API Design & Backend Systems       ████████████████████░ 85%
 + Frontend & Data Visualization      ████████████████████░ 82%
