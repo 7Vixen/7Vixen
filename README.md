@@ -1,8 +1,6 @@
 <div align="center">
 
-<!-- Animated Header Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=200&amp;section=header&amp;text=7Vixen&amp;fontSize=80&amp;fontAlignY=35&amp;animation=twinkling&amp;fontColor=fff&amp;desc=Visual+Computing+%7C+AI+%26+ML+Engineer&amp;descAlignY=55&amp;descSize=20"/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,33:6d28d9,66:a855f7,100:e879f9&height=200&section=header&text=7Vixen&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff&desc=AI%20Enthusiast%20%7C%20Agentic%20AI%20%7C%20Computer%20Vision&descAlignY=55&descSize=20"/>
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;duration=3000&amp;pause=1000&amp;color=C084FC&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Visual+Computing+%26+Computer+Graphics;AI+%7C+Machine+Learning+%7C+Deep+Learning;Prompt+Engineering+%26+LLM+Systems;Fullstack+Dev+%7C+Building+things+that+matter;M1+Student+%7C+Passionate+Problem+Solver" alt="Typing SVG" />
