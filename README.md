@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24,30&height=220&section=header&text=YOUSRA&fontSize=90&fontAlignY=38&animation=twinkling&fontColor=fff&desc=Visual%20Computing%20%7C%20AI%20%26%20ML%20Engineer&descAlignY=58&descSize=22"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,50:a855f7,100:e879f9&height=220&section=header&text=7Vixen&fontSize=90&fontAlignY=38&animation=twinkling&fontColor=ffffff&desc=Visual%20Computing%20%7C%20AI%20%26%20ML%20Engineer&descAlignY=58&descSize=22"/>
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
@@ -18,7 +18,7 @@
 <br/><br/>
 
 <!-- Profile Visitors -->
-<img src="https://komarev.com/ghpvc/?username=yousra&color=a855f7&style=for-the-badge&label=PROFILE+VISITORS" />
+<img src="https://komarev.com/ghpvc/?username=7Vixen&color=a855f7&style=for-the-badge&label=PROFILE+VISITORS" />
 <img src="https://img.shields.io/github/followers/yousra?style=for-the-badge&color=7c3aed&label=FOLLOWERS&logo=github" />
 
 </div>
@@ -31,7 +31,7 @@
 
 <!-- About Section -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=2000&color=e879f9&center=true&vCenter=true&width=480&lines=%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+Yousra" alt="Name" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=2000&color=e879f9&center=true&vCenter=true&width=480&lines=%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+Yousra+%227Vixen%22" alt="Name" />
 </div>
 
 <br/>
@@ -80,13 +80,13 @@ const yousra = {
 ## 📊 **GitHub Analytics**
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yousra&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=C084FC&text_color=C9D1D9&icon_color=6EE7B7" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousra&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=C084FC&text_color=C9D1D9" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=7Vixen&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=C084FC&text_color=C9D1D9&icon_color=6EE7B7" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7Vixen&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=C084FC&text_color=C9D1D9" />
 </p>
 
-<img src="https://streak-stats.demolab.com/?user=yousra&theme=radical&hide_border=true&background=0D1117&stroke=C084FC&ring=a855f7&fire=6EE7B7&currStreakLabel=C084FC" />
+<img src="https://streak-stats.demolab.com/?user=7Vixen&theme=radical&hide_border=true&background=0D1117&stroke=C084FC&ring=a855f7&fire=6EE7B7&currStreakLabel=C084FC" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=yousra&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=7Vixen&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" />
 
 </div>
 
@@ -270,7 +270,7 @@ Output:    High-res stylized images
 
 ## ⏱️ **Coding Activity**
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yousra&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=C084FC&line=a855f7&point=6EE7B7" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=7Vixen&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=C084FC&line=a855f7&point=6EE7B7" />
 
 </div>
 
@@ -315,10 +315,10 @@ On Code:
 
 ## 🤝 **Let's Connect**
 
-<a href="https://github.com/yousra">
+<a href="https://github.com/7Vixen">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://linkedin.com/in/yousra">
+<a href="https://linkedin.com/in/7Vixen">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:yousra@email.com">
@@ -341,11 +341,11 @@ On Code:
 
 <br/><br/>
 
-**Made with** ❤️ **and a lot of** ☕ **by Yousra**
+**Made with** ❤️ **and a lot of** ☕ **by 7Vixen**
 
 <br/>
 
 <!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24,30&height=130&section=footer&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,50:a855f7,100:e879f9&height=130&section=footer&animation=twinkling"/>
 
 </div>
